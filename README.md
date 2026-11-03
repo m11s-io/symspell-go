@@ -74,4 +74,4 @@ This is a faithful port, verified against upstream's own test suite (see `symspe
 
 ## License
 
-MIT — see [LICENSE](./LICENSE). Original algorithm and dictionaries © Wolf Garbe ([wolfgarbe/SymSpell](https://github.com/wolfgarbe/SymSpell)); Damerau-Levenshtein edit distance algorithm © SoftWx, Inc. ([softwx/SoftWx.Match](https://github.com/softwx/SoftWx.Match)).
+Apache-2.0 — see [LICENSE](./LICENSE). Original algorithm and dictionaries © Wolf Garbe ([wolfgarbe/SymSpell](https://github.com/wolfgarbe/SymSpell)); the Damerau-Levenshtein edit distance algorithm © SoftWx, Inc. ([softwx/SoftWx.Match](https://github.com/softwx/SoftWx.Match)) remains under its original MIT terms; see [NOTICE](./NOTICE).
